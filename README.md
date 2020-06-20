@@ -36,10 +36,10 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 A aplicação web é voltada para as entidades e empresas cadastrarem seu ponto de coleta.
 
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_inicial.png" width="400px" />
-    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_imagem.png" width="400px" />
-    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_mapa.png" width="400px" />
-    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_itens.png" width="400px" />
+    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_inicial.PNG" width="400px" />
+    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_imagem.PNG" width="400px" />
+    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_mapa.PNG" width="400px" />
+    <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_itens.PNG" width="400px" />
 </h1>
 
 ## 📱 Aplicação Mobile
