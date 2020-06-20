@@ -2,7 +2,7 @@
     <img alt="Ecoleta" title="Ecoleta" src="imagens/logo_nlw.png" width="220px" />
 </h1>
 
-# 🎯 Projeto
+## 🎯 Projeto
 
 Projeto desenvolvido durante a NLW - Next Level Week #01 organizado pela Rocketseat.
 
@@ -12,13 +12,13 @@ O tema do projeto gira em torno da Semana Internacional do Meio Ambiente e, poss
     <img alt="Ecoleta" title="Ecoleta" src="imagens/ecoleta.svg" width="220px" />
 </h1>
 
-# 🚀 Desenvolvimento
+## 🚀 Desenvolvimento
 O projeto foi desenvolvido com as seguintes tecnologias: 
 * Frontend (web): ReactJS
 * Frontend (mobile): React Native
 * Backend: NodeJS
 
-# 📚 Tenologias Utilizadas
+## 📚 Tenologias Utilizadas
 
 - Desenvolvimento utilizando TypeScript
 - Construção de uma API RESTful
@@ -31,7 +31,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - Upload de imagens
 - Validação de dados com Celebrate
 
-# 💻 Aplicação Web
+## 💻 Aplicação Web
 
 A aplicação web é voltada para as entidades e empresas cadastrarem seu ponto de coleta.
 
@@ -42,7 +42,7 @@ A aplicação web é voltada para as entidades e empresas cadastrarem seu ponto 
     <img alt="Ecoleta" title="Ecoleta" src="imagens/web/web_cadastro_itens.png" width="400px" />
 </h1>
 
-# 📱 Aplicação Mobile
+## 📱 Aplicação Mobile
 
 A aplicação mobile é voltada para as pessoas fazerem consultas de quais locais fazem a coleta de acordo com a localização e materiais desejados.
 
